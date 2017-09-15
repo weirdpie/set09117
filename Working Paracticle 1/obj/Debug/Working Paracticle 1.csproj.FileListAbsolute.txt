@@ -1,0 +1,14 @@
+H:\Working Paracticle 1\Working Paracticle 1\bin\Debug\Working Paracticle 1.exe.config
+H:\Working Paracticle 1\Working Paracticle 1\bin\Debug\Working Paracticle 1.exe
+H:\Working Paracticle 1\Working Paracticle 1\bin\Debug\Working Paracticle 1.pdb
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\MainWindow.g.cs
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\App.g.cs
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working Paracticle 1_MarkupCompile.cache
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working Paracticle 1_MarkupCompile.lref
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\MainWindow.baml
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working Paracticle 1.g.resources
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working_Paracticle_1.Properties.Resources.resources
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working Paracticle 1.csproj.GenerateResource.Cache
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working Paracticle 1.csproj.CoreCompileInputs.cache
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working Paracticle 1.exe
+H:\Working Paracticle 1\Working Paracticle 1\obj\Debug\Working Paracticle 1.pdb
